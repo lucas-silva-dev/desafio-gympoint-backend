@@ -1,1 +1,3 @@
 # desafio-gympoint-backend
+
+Ainda em desenvolvimento...
